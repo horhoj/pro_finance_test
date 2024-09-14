@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Джинсы Адидас",
+    "category": "Джинсы",
+    "barCode": "092174834721",
+    "subject": "Одежда",
+    "article": "Брюки",
+    "size": "50-54",
+    "availableToOrder": 22,
+    "productsInTransit": 44,
+    "coast": 10000
+  },
+  {
+    "id": 1,
+    "name": "Джинсы Рибук",
+    "category": "Джинсы",
+    "barCode": "5389736739",
+    "subject": "Одежда",
+    "article": "Брюки",
+    "size": "60",
+    "availableToOrder": 11,
+    "productsInTransit": 22,
+    "coast": 5000
+  },
+  {
+    "id": 2,
+    "name": "Футболка Адидас",
+    "category": "Футболки",
+    "barCode": "3456345345",
+    "subject": "Одежда",
+    "article": "Футболка",
+    "size": "60",
+    "availableToOrder": 11,
+    "productsInTransit": 22,
+    "coast": 3000
+  },
+  {
+    "id": 3,
+    "name": "Айфон 13",
+    "category": "Средства связи",
+    "barCode": "1345245411",
+    "subject": "Телефон",
+    "article": "Смартфон",
+    "size": "XL",
+    "availableToOrder": 5,
+    "productsInTransit": 16,
+    "coast": 100000
+  },
+  {
+    "id": 4,
+    "name": "Айфон 15",
+    "category": "Средства связи",
+    "barCode": "5567567567",
+    "subject": "Телефон",
+    "article": "Смартфон",
+    "size": "XS",
+    "availableToOrder": 70,
+    "productsInTransit": 12,
+    "coast": 150000
+  }
+]

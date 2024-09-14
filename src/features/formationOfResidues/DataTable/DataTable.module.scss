@@ -1,0 +1,11 @@
+.DataTable {}
+
+.columnHeader {
+  display: flex;
+  align-items: center;
+}
+
+.columnHeaderSortBtn {
+  width: fit-content !important;
+  padding: 0 !important;
+}
